@@ -1,0 +1,20 @@
+# Build
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Rider / IntelliJ
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
